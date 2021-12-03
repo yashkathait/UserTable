@@ -1,0 +1,36 @@
+.centralise {
+  display: inline-block;
+}
+
+h1 {
+  font-size: 35px;
+  text-decoration: underline;
+  font-weight: 900;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h3 {
+  font-family: "monospace";
+  font-size: 24px;
+  color: rgb(110, 106, 106);
+}
+
+.backbutton {
+  display: block;
+  border: 0;
+  font-size: 12px;
+  padding: 16px 30px;
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: #0081d5;
+}
+.backbutton:hover,
+.backbutton:focus {
+  background-color: #134b70;
+}
+.linkbutton {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

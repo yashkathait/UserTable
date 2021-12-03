@@ -1,0 +1,10 @@
+.pagination {
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+.page-item {
+  list-style-type: none;
+}
